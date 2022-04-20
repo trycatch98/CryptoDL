@@ -2,7 +2,8 @@
 거래량이 많이 나오는 인기있는 코인이면서 가격이 적당한 코인 ETC로 학습
 
 ## Data
-ETC 1분봉 데이터: https://drive.google.com/file/d/1dYu9RcnAdqXFqb6YSDAH33HrzgIKqEo2/view?usp=sharing
+ETC 1분봉 데이터: https://drive.google.com/file/d/1dYu9RcnAdqXFqb6YSDAH33HrzgIKqEo2/view?usp=sharing 
+
 학습시 사용하는 데이터는 업로드 중
 
 데이터는 180개씩 묶었으며 Y값은 앞으로 60개의 봉(1시간)동안 close가 구매 가격보다 0.5% 이상인게 있으면 1 아니면 0
